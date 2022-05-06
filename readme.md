@@ -6,12 +6,13 @@ If you are new to processing, this simple sketch will help you to understand how
 
 You even can start your drawing/sketch from the "a_drawing.pde" file of this reposity. 
 
-## Instructions 
+## Instructions
 
 If you are not familiar with git:
 
 - you can download this repository as zip.
 - Unzip, then start the "a_drawing.pde" to start drawing.
+- [Important] Make sure you keep "a_drawing.pde" and "MOUSESCALE.pde" in the same directory/folder.
 
 Here is a screenshot of the download button.
 
