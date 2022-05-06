@@ -13,7 +13,9 @@ If you are not familiar with git:
 - you can download this repository as zip.
 - Unzip, then start the "a_drawing.pde" to start drawing.
 
-Here is a screen shot of the download button.
+Here is a screenshot of the download button.
+
+<img src="assets/howToDownload.png" width="300" height="300"/>
 
 ## Visual Representation
 
