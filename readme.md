@@ -1,5 +1,7 @@
 # Processing Canvas Coordinates
 
+[![Hits](https://hits.sh/github.com/vmsaif/mouseCoordinatesOnCanvas.svg?label=Visits&color=100b75)](https://hits.sh/github.com/vmsaif/mouseCoordinatesOnCanvas/)
+
 This is a visual representation of the coordinates of a Processing canvas. 
 
 If you are new to processing, this simple sketch will help you to understand how the X and Y coordinates are placed on the canvas.
